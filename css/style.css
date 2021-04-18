@@ -19,12 +19,12 @@ width: 225px;
 .middle{
 position:absolute;
 left:500px;
-bottom:25px;
+bottom:75px;
 }
 .right{
 position: absolute;
 left:1000px;
-bottom:25px;
+bottom:75px;
 }
 .header{
   padding:20px;
