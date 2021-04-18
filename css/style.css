@@ -1,0 +1,44 @@
+
+body {
+  font-family: Monaco, monospace;
+background-color: #949cdf;
+}
+h1{
+  margin-left:60px;
+}
+img{
+  border-radius: 50px;
+  border-style: dotted;
+  border-width: 5px;
+  border-color: gray;
+}
+.left{
+display: inline-block;
+width: 225px;
+}
+.middle{
+position:absolute;
+left:500px;
+bottom:25px;
+}
+.right{
+position: absolute;
+left:1000px;
+bottom:25px;
+}
+.header{
+  padding:20px;
+  border-radius: 30px;
+  background-color: #693c72;
+  width: 150px;
+
+}
+#welcome{
+padding:30px;
+width: 500px;
+height: 120px;
+  margin-left: 600px;
+  border-style:dotted;
+
+  border-color: #ccffbd;
+background-color: #7eca9c;}
